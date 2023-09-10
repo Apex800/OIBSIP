@@ -13,7 +13,7 @@ I am Ammar khan, a dedicated and passionate web developer excited to contribute 
 - UI/UX Design
 - Version Control with Git
 - Responsive Web Design
-- Database Management (e.g., MongoDB)
+  
 
 ## Accomplishments
 
