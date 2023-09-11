@@ -23,5 +23,5 @@ I am Ammar khan, a dedicated and passionate web developer excited to contribute 
 
 ## How to Reach Me
 
-I am open to new opportunities and collaborations. Feel free to contact me at khanammar800@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/ammar-khan-698747279
+I am open to new opportunities and collaborations. Feel free to contact me at khanammar800@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/ammar-khan-698747279.)
 Thank you for visiting my Oasis Web Development Internship Portfolio. I look forward to discussing how my skills and experiences can benefit your team!
